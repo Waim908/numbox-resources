@@ -1,2 +1,2 @@
 # numbox-resources
-NumBox前缀包公共存储库
+NumBox资源下载
